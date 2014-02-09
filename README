@@ -2,8 +2,15 @@
 * Lisp learning repo 
 ** Direcory Listing
 *** PCL
-**** Following Excercises in the book Practical Common Lisp
+**** Following excercises in the book Practical Common Lisp
 **** See http://www.gigamonkeys.com/book/
+**** File Descriptions
+***** gps.lisp
+******  code for GPS itself
+***** school-ops
+****** working OPS for GPS
+***** vacation.lisp
+******  my example, not working
 *** GPS
 **** General Problem Solver Project
 ***** Created in 1959 by Herbert A. Simon, J.C. Shaw, and Allen Newell
