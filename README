@@ -4,6 +4,7 @@
 *** PCL
 **** Following excercises in the book Practical Common Lisp
 **** See http://www.gigamonkeys.com/book/
+*** GPS
 **** File Descriptions
 ***** gps.lisp
 ******  code for GPS itself
@@ -11,7 +12,6 @@
 ****** working OPS for GPS
 ***** vacation.lisp
 ******  my example, not working
-*** GPS
 **** General Problem Solver Project
 ***** Created in 1959 by Herbert A. Simon, J.C. Shaw, and Allen Newell
 ***** See http://en.wikipedia.org/wiki/General_Problem_Solver
